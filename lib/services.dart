@@ -172,6 +172,7 @@ class Services extends StatelessWidget {
           Stack(
             children: [
               Container(
+                color: Colors.white,
                 child: Image.asset(
                   "assets/images/grade2.png",
                   height: 600,
